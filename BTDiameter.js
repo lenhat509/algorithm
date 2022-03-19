@@ -1,4 +1,3 @@
-// This is an input class. Do not edit.
 class BinaryTree {
     constructor(value) {
         this.value = value;
@@ -21,7 +20,3 @@ function countDiameter(tree) {
     const maxPath = Math.max(totalMaxNodes, leftMaxNodes, rightMaxNodes);
     return [maxHeight, maxPath];
 }
-
-// Do not edit the line below.
-exports.binaryTreeDiameter = binaryTreeDiameter;
-exports.BinaryTree = BinaryTree;
