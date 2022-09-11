@@ -14,6 +14,3 @@ function mergeOverlappingIntervals(array) {
     }
     return result;
 }
-
-// Do not edit the line below.
-exports.mergeOverlappingIntervals = mergeOverlappingIntervals;
