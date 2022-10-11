@@ -1,8 +1,3 @@
-/**
- * @param {number} n
- * @return {number}
- */
-
 /*
 current level : i
 number of ways (i) = number of ways (i - 2) + number of ways(i - 1)
